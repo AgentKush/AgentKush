@@ -20,15 +20,14 @@ All mods use the **EXMODZ** format for [JimK72's Mod Manager](https://github.com
 
 ### The Numbers
 
-<img src="https://github-readme-stats.vercel.app/api?username=AgentKush&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=E87B35&icon_color=E87B35&text_color=c9d1d9" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AgentKush&theme=github-dark-blue&hide_border=true&background=0D1117&ring=E87B35&fire=E87B35&currStreakLabel=E87B35" alt="GitHub Streak" width="49%" />
+<a href="https://github.com/AgentKush/Icarus-mods">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AgentKush&theme=github-dark-blue&hide_border=true&background=0D1117&ring=E87B35&fire=E87B35&currStreakLabel=E87B35" alt="GitHub Streak" width="55%" />
+</a>
 
-| Icarus Mods | Stat |
+| | |
 |:---|:---|
-| Total Mods | **38** |
-| Data Entries Modified | **37,500+** |
-| Crafting Recipes | **18,800+** |
-| Game Tables Touched | **15+** |
+| **38** Mods | **37,500+** Data Entries Modified |
+| **18,800+** Crafting Recipes | **15+** Game Tables Touched |
 
 ---
 
