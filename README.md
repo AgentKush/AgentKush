@@ -41,16 +41,16 @@ current_projects:
 
 <p align="center">
   <a href="https://github.com/AgentKush">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AgentKush&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&text_color=8b949e&ring_color=2ea043&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AgentKush&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&text_color=8b949e&ring_color=2ea043&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
   </a>  &nbsp;&nbsp;
   <a href="https://github.com/AgentKush">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentKush&layout=compact&theme=github_dark&bg_color=0d1117&border_color=1a7f37&title_color=2ea043&text_color=8b949e&langs_count=8" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentKush&layout=compact&theme=github_dark&bg_color=0d1117&border_color=1a7f37&title_color=2ea043&text_color=8b949e&langs_count=8&cache_seconds=86400" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AgentKush">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgentKush&theme=dark&background=0d1117&border=1a7f37&stroke=2ea043&ring=2ea043&fire=ff6e40&currStreakLabel=2ea043&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=AgentKush&theme=dark&background=0d1117&border=1a7f37&stroke=2ea043&ring=2ea043&fire=ff6e40&currStreakLabel=2ea043&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -96,9 +96,9 @@ current_projects:
   <img src="https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
   <br/>
   <!-- Modding Specific -->
-  <img src="https://img.shields.io/badge/Icarus_Modding-2ea043?style=for-the-badge&logo=gamepad&logoColor=white" alt="Icarus Modding" />
-  <img src="https://img.shields.io/badge/EXMOD_Format-1a7f37?style=for-the-badge&logo=files&logoColor=white" alt="EXMOD" />
-  <img src="https://img.shields.io/badge/PAK_Files-0d1117?style=for-the-badge&logo=files&logoColor=2ea043" alt="PAK Files" />
+  <img src="https://img.shields.io/badge/Icarus_Modding-2ea043?style=for-the-badge&logoColor=white" alt="Icarus Modding" />
+  <img src="https://img.shields.io/badge/EXMOD_Format-1a7f37?style=for-the-badge&logoColor=white" alt="EXMOD" />
+  <img src="https://img.shields.io/badge/PAK_Files-0d1117?style=for-the-badge&logoColor=2ea043" alt="PAK Files" />
   <img src="https://img.shields.io/badge/Blueprint_Assets-0d1117?style=for-the-badge&logo=unrealengine&logoColor=2ea043" alt="Blueprints" />
 </p>
 <!-- Animated Divider -->
@@ -110,49 +110,49 @@ current_projects:
 <table align="center">
 <tr>
 <td align="center" width="200">
-<img width="60" src="https://img.icons8.com/fluency/96/controller.png" alt="Mods"/><br/>
+🎮<br/>
 <b>38</b><br/>
 <sub>Mods Created</sub>
 </td>
 <td align="center" width="200">
-<img width="60" src="https://img.icons8.com/fluency/96/database.png" alt="Data"/><br/>
+🗃️<br/>
 <b>37,500+</b><br/>
 <sub>Data Entries Modified</sub>
 </td>
 <td align="center" width="200">
-<img width="60" src="https://img.icons8.com/fluency/96/maintenance.png" alt="Recipes"/><br/>
+🔧<br/>
 <b>18,800+</b><br/>
 <sub>Crafting Recipes</sub>
 </td>
 <td align="center" width="200">
-<img width="60" src="https://img.icons8.com/fluency/96/rocket.png" alt="Active"/><br/>
+🚀<br/>
 <b>Active</b><br/>
 <sub>Development Status</sub>
 </td>
 </tr>
 </table>
+
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
-
 <p align="center">
   <a href="https://github.com/AgentKush/Icarus-mods">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=Icarus-mods&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e" alt="Icarus-mods" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=Icarus-mods&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e&cache_seconds=86400" alt="Icarus-mods" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/AgentKush/icarus-modinfo-validator">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=icarus-modinfo-validator&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e" alt="icarus-modinfo-validator" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=icarus-modinfo-validator&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e&cache_seconds=86400" alt="icarus-modinfo-validator" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/AgentKush/Icarus-Save-file-Toolkit">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=Icarus-Save-file-Toolkit&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e" alt="Icarus-Save-file-Toolkit" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=Icarus-Save-file-Toolkit&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e&cache_seconds=86400" alt="Icarus-Save-file-Toolkit" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/AgentKush/project_daedalus">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=project_daedalus&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e" alt="project_daedalus" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=project_daedalus&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e&cache_seconds=86400" alt="project_daedalus" />
   </a>
 </p>
 <!-- Animated Divider -->
@@ -177,8 +177,8 @@ current_projects:
 <summary><b>🛠️ Tool Building</b></summary>
 <br/>
 
-- **icarus-modinfo-validator** — Automated validation for mod files (JSON syntax, required fields, data table refs)
-- **Icarus Save File Toolkit** — Player data modification and management utility
+- **icarus-modinfo-validator** — Automated validation for mod files
+- **Icarus Save File Toolkit** — Player data modification utility
 - **Project Daedalus** — Comprehensive modding tools suite
 - Custom scripts for icon extraction, data analysis, and batch processing
 
@@ -207,6 +207,9 @@ current_projects:
     <img alt="Snake animation" src="https://raw.githubusercontent.com/AgentKush/AgentKush/output/github-snake-dark.svg" />
   </picture>
 </p>
+
+> ⚠️ *Snake animation will appear after running the GitHub Action workflow once — go to the Actions tab and trigger "Generate Snake Animation"*
+
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -216,7 +219,6 @@ current_projects:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
-
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -236,6 +238,7 @@ current_projects:
     <img src="https://img.shields.io/badge/All_Repos-Explore-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
   </a>
 </p>
+
 <!-- Profile Views & Stars -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AgentKush&color=2ea043&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
