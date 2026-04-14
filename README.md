@@ -36,16 +36,22 @@ current_projects:
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats Section - uses locally generated cards -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/AgentKush">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AgentKush&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&text_color=8b949e&ring_color=2ea043&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-  </a>  &nbsp;&nbsp;
-  <a href="https://github.com/AgentKush">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgentKush&layout=compact&theme=github_dark&bg_color=0d1117&border_color=1a7f37&title_color=2ea043&text_color=8b949e&langs_count=8&cache_seconds=86400" alt="Top Languages" />
-  </a>
+  <img src="https://raw.githubusercontent.com/AgentKush/AgentKush/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AgentKush/AgentKush/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos Per Language" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/AgentKush/AgentKush/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AgentKush/AgentKush/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/AgentKush/AgentKush/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
 </p>
 
 <p align="center">
@@ -54,12 +60,7 @@ current_projects:
   </a>
 </p>
 
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/AgentKush">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AgentKush&theme=github-dark&bg_color=0d1117&color=2ea043&line=2ea043&point=ff6e40&area=true&area_color=1a7f37&hide_border=true" alt="Activity Graph" />
-  </a>
-</p>
+> ⚠️ *Stats cards are generated daily via GitHub Actions. If cards show as broken, go to the **Actions** tab and run "Generate Profile Summary Cards" once.*
 
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -79,7 +80,6 @@ current_projects:
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
@@ -87,7 +87,6 @@ current_projects:
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
   <br/>
-  <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -95,7 +94,6 @@ current_projects:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
   <br/>
-  <!-- Modding Specific -->
   <img src="https://img.shields.io/badge/Icarus_Modding-2ea043?style=for-the-badge&logoColor=white" alt="Icarus Modding" />
   <img src="https://img.shields.io/badge/EXMOD_Format-1a7f37?style=for-the-badge&logoColor=white" alt="EXMOD" />
   <img src="https://img.shields.io/badge/PAK_Files-0d1117?style=for-the-badge&logoColor=2ea043" alt="PAK Files" />
@@ -137,6 +135,7 @@ current_projects:
 
 <!-- Featured Projects Section -->
 ## 🚀 Featured Projects
+
 <p align="center">
   <a href="https://github.com/AgentKush/Icarus-mods">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=Icarus-mods&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e&cache_seconds=86400" alt="Icarus-mods" />
@@ -155,6 +154,7 @@ current_projects:
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=project_daedalus&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e&cache_seconds=86400" alt="project_daedalus" />
   </a>
 </p>
+
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -183,10 +183,10 @@ current_projects:
 - Custom scripts for icon extraction, data analysis, and batch processing
 
 </details>
-
 <details>
 <summary><b>🌐 Open Source</b></summary>
 <br/>
+
 - Active contributor to the Icarus modding community
 - Build and maintain validation tools that help other modders
 - Share knowledge and mod templates with the community
@@ -207,8 +207,6 @@ current_projects:
     <img alt="Snake animation" src="https://raw.githubusercontent.com/AgentKush/AgentKush/output/github-snake-dark.svg" />
   </picture>
 </p>
-
-> ⚠️ *Snake animation will appear after running the GitHub Action workflow once — go to the Actions tab and trigger "Generate Snake Animation"*
 
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
