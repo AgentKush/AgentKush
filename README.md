@@ -75,13 +75,17 @@ const AgentKush = {
 
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- Trophies -->
+<!-- Prospector Achievements - shields.io badges (always reliable) -->
 ## 🏆 Prospector Achievements
 
 <p align="center">
-  <a href="https://github.com/AgentKush">
-    <img src="https://github-profile-trophy.vercel.app/?username=AgentKush&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/🏆_YOLO-2ea043?style=for-the-badge&labelColor=0d1117" alt="YOLO" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🏆_PAIR_EXTRAORDINAIRE_x2-2ea043?style=for-the-badge&labelColor=0d1117" alt="Pair Extraordinaire" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🏆_PULL_SHARK_x2-2ea043?style=for-the-badge&labelColor=0d1117" alt="Pull Shark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🏆_QUICKDRAW-2ea043?style=for-the-badge&labelColor=0d1117" alt="Quickdraw" />
 </p>
 
 <!-- Animated Divider -->
@@ -121,11 +125,10 @@ const AgentKush = {
 
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- Tech Stack - Equipment Loadout -->
+<!-- Equipment Loadout -->
 ## 🧰 Equipment Loadout
 
 <p align="center">
-  <!-- Primary Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
@@ -133,7 +136,6 @@ const AgentKush = {
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
   <br/>
-  <!-- Platforms & Tools -->
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -141,7 +143,6 @@ const AgentKush = {
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
   <br/>
-  <!-- Icarus Modding Toolkit -->
   <img src="https://img.shields.io/badge/🎮_ICARUS_MODDING-2ea043?style=for-the-badge" alt="Icarus Modding" />
   <img src="https://img.shields.io/badge/📦_EXMOD_FORMAT-1a7f37?style=for-the-badge" alt="EXMOD" />
   <img src="https://img.shields.io/badge/📂_PAK_FILES-155d27?style=for-the-badge" alt="PAK Files" />
@@ -150,31 +151,52 @@ const AgentKush = {
 
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- Featured Projects - Mission Objectives -->
+
+<!-- Featured Projects - as styled table instead of broken vercel cards -->
 ## 🚀 Active Mission Objectives
 
-<p align="center">
-  <a href="https://github.com/AgentKush/Icarus-mods">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=Icarus-mods&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e&cache_seconds=86400" alt="Icarus-mods" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AgentKush/icarus-modinfo-validator">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=icarus-modinfo-validator&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e&cache_seconds=86400" alt="icarus-modinfo-validator" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/AgentKush/Icarus-Save-file-Toolkit">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=Icarus-Save-file-Toolkit&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e&cache_seconds=86400" alt="Icarus-Save-file-Toolkit" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/AgentKush/project_daedalus">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AgentKush&repo=project_daedalus&theme=github_dark&bg_color=0d1117&border_color=1a7f37&icon_color=2ea043&title_color=2ea043&description_color=8b949e&cache_seconds=86400" alt="project_daedalus" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td width="450">
+
+### [🎮 Icarus-mods](https://github.com/AgentKush/Icarus-mods)
+Primary mod collection — 38 mods covering workshop items, processing speeds, economy, building, turrets, and more.
+
+<img src="https://img.shields.io/github/stars/AgentKush/Icarus-mods?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/Icarus-mods?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/Icarus-mods?style=flat-square&color=8b949e&labelColor=0d1117" />
+
+</td>
+<td width="450">
+
+### [🔍 icarus-modinfo-validator](https://github.com/AgentKush/icarus-modinfo-validator)
+Automated validation tool — checks JSON syntax, required fields, data table references, and mod integrity.
+
+<img src="https://img.shields.io/github/stars/AgentKush/icarus-modinfo-validator?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/icarus-modinfo-validator?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/icarus-modinfo-validator?style=flat-square&color=8b949e&labelColor=0d1117" />
+
+</td>
+</tr>
+<tr>
+<td width="450">
+
+### [💾 Icarus-Save-file-Toolkit](https://github.com/AgentKush/Icarus-Save-file-Toolkit)
+Player data modification utility — inspect, edit, and manage Icarus save files with ease.
+
+<img src="https://img.shields.io/github/stars/AgentKush/Icarus-Save-file-Toolkit?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/Icarus-Save-file-Toolkit?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/Icarus-Save-file-Toolkit?style=flat-square&color=8b949e&labelColor=0d1117" />
+
+</td>
+<td width="450">
+
+### [🛠️ project_daedalus](https://github.com/AgentKush/project_daedalus)
+Comprehensive modding tools suite — the full toolkit for Icarus mod development and management.
+
+<img src="https://img.shields.io/github/stars/AgentKush/project_daedalus?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/project_daedalus?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/project_daedalus?style=flat-square&color=8b949e&labelColor=0d1117" />
+
+</td>
+</tr>
+</table>
 
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!-- What I Do - Mission Logs -->
+<!-- Mission Logs -->
 ## 📋 Mission Logs
 
 <details>
@@ -216,10 +238,11 @@ const AgentKush = {
 - Contribute to manga parser development (kotatsu-parsers)
 
 </details>
+
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- Snake Animation - Contribution Terrain -->
+<!-- Snake Animation -->
 ## 🐍 Terrain Survey — Contribution Map
 
 <p align="center">
@@ -259,7 +282,7 @@ const AgentKush = {
     <img src="https://img.shields.io/badge/All_Repos-Explore-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
   </a>
 </p>
-<!-- Profile Views & Stars -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AgentKush&color=2ea043&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   &nbsp;
