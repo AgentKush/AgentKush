@@ -4,7 +4,7 @@
 <!-- Typing Animation - Icarus Terminal Style -->
 <p align="center">
   <a href="https://github.com/AgentKush">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%3E+DROPSHIP+TERMINAL+ONLINE...;%3E+38+MODS+DEPLOYED+TO+ICARUS;%3E+37%2C500%2B+DATA+ENTRIES+MODIFIED;%3E+18%2C800%2B+CRAFTING+RECIPES+ENGINEERED;%3E+SYSTEM+STATUS%3A+FULLY+OPERATIONAL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%3E+DROPSHIP+TERMINAL+ONLINE...;%3E+40+MODS+DEPLOYED+TO+ICARUS;%3E+42%2C000%2B+DATA+ENTRIES+MODIFIED;%3E+18%2C800%2B+CRAFTING+RECIPES+ENGINEERED;%3E+SYSTEM+STATUS%3A+FULLY+OPERATIONAL" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,8 +31,8 @@ const AgentKush = {
     ],
     
     field_stats: {
-        mods_deployed:        38,
-        data_entries_modified: "37,500+",
+        mods_deployed:        40,
+        data_entries_modified: "42,000+",
         crafting_recipes:     "18,800+",
         status:               "ACTIVE — Continuously Deploying"
     },
@@ -98,13 +98,13 @@ const AgentKush = {
 <tr>
 <td align="center" width="220">
 <h3>🎮</h3>
-<h2>38</h2>
+<h2>40</h2>
 <b>Mods Deployed</b><br/>
 <sub>Active on Icarus</sub>
 </td>
 <td align="center" width="220">
 <h3>🗃️</h3>
-<h2>37,500+</h2>
+<h2>42,000+</h2>
 <b>Data Entries Modified</b><br/>
 <sub>Across all data tables</sub>
 </td>
@@ -160,7 +160,7 @@ const AgentKush = {
 <td width="450">
 
 ### [🎮 Icarus-mods](https://github.com/AgentKush/Icarus-mods)
-Primary mod collection — 38 mods covering workshop items, processing speeds, economy, building, turrets, and more.
+Primary mod collection — 40 mods covering workshop items, processing speeds, economy, building, turrets, and more.
 
 <img src="https://img.shields.io/github/stars/AgentKush/Icarus-mods?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/Icarus-mods?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/Icarus-mods?style=flat-square&color=8b949e&labelColor=0d1117" />
 
