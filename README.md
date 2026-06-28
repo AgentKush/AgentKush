@@ -4,13 +4,14 @@
 <!-- Typing Animation - Icarus Terminal Style -->
 <p align="center">
   <a href="https://github.com/AgentKush">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%3E+DROPSHIP+TERMINAL+ONLINE...;%3E+40+MODS+DEPLOYED+TO+ICARUS;%3E+42%2C000%2B+DATA+ENTRIES+MODIFIED;%3E+18%2C800%2B+CRAFTING+RECIPES+ENGINEERED;%3E+SYSTEM+STATUS%3A+FULLY+OPERATIONAL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=240&lines=%3E+DROPSHIP+TERMINAL+ONLINE...;%3E+53+MODS+DEPLOYED+TO+ICARUS;%3E+41%2C643+DATA+ENTRIES+MODIFIED;%3E+18%2C934+CRAFTING+RECIPES+ENGINEERED;%3E+SYSTEM+STATUS%3A+FULLY+OPERATIONAL" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- Mission Briefing / About Me -->
+
 ## 📡 Mission Briefing
 
 ```js
@@ -31,9 +32,9 @@ const AgentKush = {
     ],
     
     field_stats: {
-        mods_deployed:        40,
-        data_entries_modified: "42,000+",
-        crafting_recipes:     "18,800+",
+        mods_deployed:        53,
+        data_entries_modified: "41,643",
+        crafting_recipes:     "18,934",
         status:               "ACTIVE — Continuously Deploying"
     },
     
@@ -49,6 +50,7 @@ const AgentKush = {
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- Dropship Stats Panel -->
+
 ## 🛰️ Dropship Stats Panel
 
 <p align="center">
@@ -76,6 +78,7 @@ const AgentKush = {
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- Prospector Achievements - shields.io badges (always reliable) -->
+
 ## 🏆 Prospector Achievements
 
 <p align="center">
@@ -92,25 +95,26 @@ const AgentKush = {
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Modding Stats - Icarus HUD style -->
+
 ## 🎮 Field Operations Report
 
 <table align="center">
 <tr>
 <td align="center" width="220">
 <h3>🎮</h3>
-<h2>40</h2>
+<h2>53</h2>
 <b>Mods Deployed</b><br/>
 <sub>Active on Icarus</sub>
 </td>
 <td align="center" width="220">
 <h3>🗃️</h3>
-<h2>42,000+</h2>
+<h2>41,643</h2>
 <b>Data Entries Modified</b><br/>
 <sub>Across all data tables</sub>
 </td>
 <td align="center" width="220">
 <h3>⚒️</h3>
-<h2>18,800+</h2>
+<h2>18,934</h2>
 <b>Crafting Recipes</b><br/>
 <sub>Engineered & balanced</sub>
 </td>
@@ -126,6 +130,7 @@ const AgentKush = {
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- Equipment Loadout -->
+
 ## 🧰 Equipment Loadout
 
 <p align="center">
@@ -153,6 +158,7 @@ const AgentKush = {
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Featured Projects - as styled table instead of broken vercel cards -->
+
 ## 🚀 Active Mission Objectives
 
 <table align="center">
@@ -160,7 +166,7 @@ const AgentKush = {
 <td width="450">
 
 ### [🎮 Icarus-mods](https://github.com/AgentKush/Icarus-mods)
-Primary mod collection — 40 mods covering workshop items, processing speeds, economy, building, turrets, and more.
+Primary mod collection — **53 mods** covering workshop, processing, economy, building, turrets, taming, genetics & more.<br/><a href="https://agentkush.github.io/Icarus-mods/">🌐 Live mod browser</a> · <a href="https://github.com/AgentKush/Icarus-mods/wiki">📖 Wiki</a>
 
 <img src="https://img.shields.io/github/stars/AgentKush/Icarus-mods?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/Icarus-mods?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/Icarus-mods?style=flat-square&color=8b949e&labelColor=0d1117" />
 
@@ -197,6 +203,7 @@ Comprehensive modding tools suite — the full toolkit for Icarus mod developmen
 <!-- Animated Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <!-- Mission Logs -->
+
 ## 📋 Mission Logs
 
 <details>
@@ -243,6 +250,7 @@ Comprehensive modding tools suite — the full toolkit for Icarus mod developmen
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Snake Animation -->
+
 ## 🐍 Terrain Survey — Contribution Map
 
 <p align="center">
@@ -257,6 +265,7 @@ Comprehensive modding tools suite — the full toolkit for Icarus mod developmen
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Random Dev Quote -->
+
 ## 💬 Transmission Intercepted
 
 <p align="center">
@@ -267,6 +276,7 @@ Comprehensive modding tools suite — the full toolkit for Icarus mod developmen
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Connect Section -->
+
 ## 📡 Comms Channel
 
 <p align="center">
