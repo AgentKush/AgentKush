@@ -4,7 +4,7 @@
 <!-- Typing Animation - Icarus Terminal Style (numbers kept current by .github/workflows/mod-stats.yml) -->
 <p align="center">
   <a href="https://github.com/AgentKush">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=240&lines=%3E+DROPSHIP+TERMINAL+ONLINE...;%3E+55+MODS+DEPLOYED+TO+ICARUS;%3E+41%2C957+DATA+ENTRIES+MODIFIED;%3E+19%2C239+CRAFTING+RECIPES+ENGINEERED;%3E+SYSTEM+STATUS%3A+FULLY+OPERATIONAL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=240&lines=%3E+DROPSHIP+TERMINAL+ONLINE...;%3E+56+MODS+DEPLOYED+TO+ICARUS;%3E+42%2C357+DATA+ENTRIES+MODIFIED;%3E+19%2C239+CRAFTING+RECIPES+ENGINEERED;%3E+SYSTEM+STATUS%3A+FULLY+OPERATIONAL" alt="Typing SVG" />
   </a>
 </p>
 
@@ -32,8 +32,8 @@ const AgentKush = {
     ],
 
     field_stats: {
-        mods_deployed:         55,
-        data_entries_modified: "41,957",
+        mods_deployed:         56,
+        data_entries_modified: "42,357",
         crafting_recipes:      "19,239",
         status:                "ACTIVE — Continuously Deploying"
     },
@@ -103,13 +103,13 @@ const AgentKush = {
 <tr>
 <td align="center" width="220">
 <h3>🎮</h3>
-<h2><!--mods-->55<!--/mods--></h2>
+<h2><!--mods-->56<!--/mods--></h2>
 <b>Mods Deployed</b><br/>
 <sub>Active on Icarus</sub>
 </td>
 <td align="center" width="220">
 <h3>🗃️</h3>
-<h2><!--entries-->41,957<!--/entries--></h2>
+<h2><!--entries-->42,357<!--/entries--></h2>
 <b>Data Entries Modified</b><br/>
 <sub>Across all data tables</sub>
 </td>
@@ -172,7 +172,7 @@ const AgentKush = {
 <td width="450">
 
 ### [🎮 Icarus-mods](https://github.com/AgentKush/Icarus-mods)
-Primary mod collection: **<!--mods-->55<!--/mods--> mods** for workshop, processing, economy, building, roads, turrets, taming, genetics, unreleased content and new Blueprint logic.<br/><a href="https://agentkush.github.io/Icarus-mods/">🌐 Live mod browser</a> · <a href="https://github.com/AgentKush/Icarus-mods/wiki">📖 Wiki</a>
+Primary mod collection: **<!--mods-->56<!--/mods--> mods** for workshop, processing, economy, building, roads, turrets, taming, genetics, unreleased content and new Blueprint logic.<br/><a href="https://agentkush.github.io/Icarus-mods/">🌐 Live mod browser</a> · <a href="https://github.com/AgentKush/Icarus-mods/wiki">📖 Wiki</a>
 
 <img src="https://img.shields.io/github/stars/AgentKush/Icarus-mods?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/Icarus-mods?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/Icarus-mods?style=flat-square&color=8b949e&labelColor=0d1117" />
 
