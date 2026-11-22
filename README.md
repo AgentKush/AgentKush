@@ -1,10 +1,10 @@
 <!-- Header Banner - Icarus themed wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,30:0d2818,60:1a7f37,100:2ea043&height=230&section=header&text=⚡%20AgentKush&fontSize=70&fontColor=ffffff&fontAlignY=32&desc=ICARUS%20MODDER%20%E2%80%A2%20TOOL%20BUILDER%20%E2%80%A2%20OPEN%20SOURCE%20CONTRIBUTOR&descSize=16&descColor=4ade80&descAlignY=55&animation=fadeIn" />
 
-<!-- Typing Animation - Icarus Terminal Style -->
+<!-- Typing Animation - Icarus Terminal Style (numbers kept current by .github/workflows/mod-stats.yml) -->
 <p align="center">
   <a href="https://github.com/AgentKush">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=240&lines=%3E+DROPSHIP+TERMINAL+ONLINE...;%3E+53+MODS+DEPLOYED+TO+ICARUS;%3E+41%2C643+DATA+ENTRIES+MODIFIED;%3E+18%2C934+CRAFTING+RECIPES+ENGINEERED;%3E+SYSTEM+STATUS%3A+FULLY+OPERATIONAL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=240&lines=%3E+DROPSHIP+TERMINAL+ONLINE...;%3E+55+MODS+DEPLOYED+TO+ICARUS;%3E+41%2C957+DATA+ENTRIES+MODIFIED;%3E+19%2C239+CRAFTING+RECIPES+ENGINEERED;%3E+SYSTEM+STATUS%3A+FULLY+OPERATIONAL" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,25 +24,26 @@ const AgentKush = {
     callsign: "AgentKush",
     location: "United Kingdom 🇬🇧",
     role: "Icarus Modder & Tool Builder",
-    
+
     mission_focus: [
-        "Icarus: First Cohort — Advanced Modding",
-        "Game Data Engineering & Automation",
-        "Tool Development for the Modding Community"
+        "Icarus: First Cohort — data-table and Blueprint modding",
+        "Game data engineering & automation",
+        "Tools and sites for the modding community"
     ],
-    
+
     field_stats: {
-        mods_deployed:        53,
-        data_entries_modified: "41,643",
-        crafting_recipes:     "18,934",
-        status:               "ACTIVE — Continuously Deploying"
+        mods_deployed:         55,
+        data_entries_modified: "41,957",
+        crafting_recipes:      "19,239",
+        status:                "ACTIVE — Continuously Deploying"
     },
-    
+
     active_operations: [
-        "Icarus Mod Collection — Workshop, Processing, Economy",
-        "Mod Validation Tooling — icarus-modinfo-validator",
-        "Save File Toolkit — Player data utilities",
-        "Project Daedalus — Full modding suite"
+        "Icarus Mod Collection — mods, mod browser site, auto releases",
+        "Blueprint logic mods — new game logic built from C++",
+        "Project Daedalus — static rebuild of projectdaedalus.app",
+        "Mod validation — icarus-modinfo-validator",
+        "Crimson Desert — engine signature database"
     ]
 };
 ```
@@ -86,7 +87,7 @@ const AgentKush = {
   &nbsp;
   <img src="https://img.shields.io/badge/🏆_PAIR_EXTRAORDINAIRE_x2-2ea043?style=for-the-badge&labelColor=0d1117" alt="Pair Extraordinaire" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🏆_PULL_SHARK_x2-2ea043?style=for-the-badge&labelColor=0d1117" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/🏆_PULL_SHARK_x3-2ea043?style=for-the-badge&labelColor=0d1117" alt="Pull Shark" />
   &nbsp;
   <img src="https://img.shields.io/badge/🏆_QUICKDRAW-2ea043?style=for-the-badge&labelColor=0d1117" alt="Quickdraw" />
 </p>
@@ -102,19 +103,19 @@ const AgentKush = {
 <tr>
 <td align="center" width="220">
 <h3>🎮</h3>
-<h2>53</h2>
+<h2><!--mods-->55<!--/mods--></h2>
 <b>Mods Deployed</b><br/>
 <sub>Active on Icarus</sub>
 </td>
 <td align="center" width="220">
 <h3>🗃️</h3>
-<h2>41,643</h2>
+<h2><!--entries-->41,957<!--/entries--></h2>
 <b>Data Entries Modified</b><br/>
 <sub>Across all data tables</sub>
 </td>
 <td align="center" width="220">
 <h3>⚒️</h3>
-<h2>18,934</h2>
+<h2><!--recipes-->19,239<!--/recipes--></h2>
 <b>Crafting Recipes</b><br/>
 <sub>Engineered & balanced</sub>
 </td>
@@ -136,12 +137,17 @@ const AgentKush = {
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
   <br/>
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
   <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -151,7 +157,7 @@ const AgentKush = {
   <img src="https://img.shields.io/badge/🎮_ICARUS_MODDING-2ea043?style=for-the-badge" alt="Icarus Modding" />
   <img src="https://img.shields.io/badge/📦_EXMOD_FORMAT-1a7f37?style=for-the-badge" alt="EXMOD" />
   <img src="https://img.shields.io/badge/📂_PAK_FILES-155d27?style=for-the-badge" alt="PAK Files" />
-  <img src="https://img.shields.io/badge/🔧_BLUEPRINT_ASSETS-0d4420?style=for-the-badge" alt="Blueprints" />
+  <img src="https://img.shields.io/badge/🔧_BLUEPRINT_LOGIC-0d4420?style=for-the-badge" alt="Blueprints" />
 </p>
 
 <!-- Animated Divider -->
@@ -166,35 +172,53 @@ const AgentKush = {
 <td width="450">
 
 ### [🎮 Icarus-mods](https://github.com/AgentKush/Icarus-mods)
-Primary mod collection — **53 mods** covering workshop, processing, economy, building, turrets, taming, genetics & more.<br/><a href="https://agentkush.github.io/Icarus-mods/">🌐 Live mod browser</a> · <a href="https://github.com/AgentKush/Icarus-mods/wiki">📖 Wiki</a>
+Primary mod collection: **<!--mods-->55<!--/mods--> mods** for workshop, processing, economy, building, roads, turrets, taming, genetics, unreleased content and new Blueprint logic.<br/><a href="https://agentkush.github.io/Icarus-mods/">🌐 Live mod browser</a> · <a href="https://github.com/AgentKush/Icarus-mods/wiki">📖 Wiki</a>
 
 <img src="https://img.shields.io/github/stars/AgentKush/Icarus-mods?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/Icarus-mods?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/Icarus-mods?style=flat-square&color=8b949e&labelColor=0d1117" />
 
 </td>
 <td width="450">
 
-### [🔍 icarus-modinfo-validator](https://github.com/AgentKush/icarus-modinfo-validator)
-Automated validation tool — checks JSON syntax, required fields, data table references, and mod integrity.
+### [🌐 daedalus-static-poc](https://github.com/AgentKush/daedalus-static-poc)
+Static-site rebuild of projectdaedalus.app on GitHub Pages: Icarus and Nexus mods in one index, hourly modinfo.json sync, anonymous ratings and Giscus comments.<br/><a href="https://agentkush.github.io/daedalus-static-poc/">🌐 Live site</a>
 
-<img src="https://img.shields.io/github/stars/AgentKush/icarus-modinfo-validator?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/icarus-modinfo-validator?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/icarus-modinfo-validator?style=flat-square&color=8b949e&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/AgentKush/daedalus-static-poc?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/daedalus-static-poc?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/daedalus-static-poc?style=flat-square&color=8b949e&labelColor=0d1117" />
 
 </td>
 </tr>
 <tr>
 <td width="450">
 
-### [💾 Icarus-Save-file-Toolkit](https://github.com/AgentKush/Icarus-Save-file-Toolkit)
-Player data modification utility — inspect, edit, and manage Icarus save files with ease.
+### [🔍 icarus-modinfo-validator](https://github.com/AgentKush/icarus-modinfo-validator)
+Automated validation tool: checks JSON syntax, required fields, data table references and EXMODZ packaging, with a CI workflow that comments on PRs.
 
-<img src="https://img.shields.io/github/stars/AgentKush/Icarus-Save-file-Toolkit?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/Icarus-Save-file-Toolkit?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/Icarus-Save-file-Toolkit?style=flat-square&color=8b949e&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/AgentKush/icarus-modinfo-validator?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/icarus-modinfo-validator?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/icarus-modinfo-validator?style=flat-square&color=8b949e&labelColor=0d1117" />
 
 </td>
 <td width="450">
 
+### [🗡️ crimson-desert-signatures](https://github.com/AgentKush/crimson-desert-signatures)
+Community engine signature and offset database with a header-only runtime AOB scanner for Crimson Desert ASI mods: find game functions by signature, not hard-coded offsets.
+
+<img src="https://img.shields.io/github/stars/AgentKush/crimson-desert-signatures?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/crimson-desert-signatures?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/crimson-desert-signatures?style=flat-square&color=8b949e&labelColor=0d1117" />
+
+</td>
+</tr>
+<tr>
+<td width="450">
+
 ### [🛠️ project_daedalus](https://github.com/AgentKush/project_daedalus)
-Comprehensive modding tools suite — the full toolkit for Icarus mod development and management.
+Contributor to Project Daedalus, the Icarus mod hub at <a href="https://projectdaedalus.app">projectdaedalus.app</a>: fixes to its mod listing, downloads, mobile layout and CI.
 
 <img src="https://img.shields.io/github/stars/AgentKush/project_daedalus?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/project_daedalus?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/project_daedalus?style=flat-square&color=8b949e&labelColor=0d1117" />
+
+</td>
+<td width="450">
+
+### [💾 Icarus-Save-file-Toolkit](https://github.com/AgentKush/Icarus-Save-file-Toolkit)
+Player data utility: inspect, edit and manage Icarus save files.
+
+<img src="https://img.shields.io/github/stars/AgentKush/Icarus-Save-file-Toolkit?style=flat-square&color=2ea043&labelColor=0d1117" /> <img src="https://img.shields.io/github/forks/AgentKush/Icarus-Save-file-Toolkit?style=flat-square&color=1a7f37&labelColor=0d1117" /> <img src="https://img.shields.io/github/last-commit/AgentKush/Icarus-Save-file-Toolkit?style=flat-square&color=8b949e&labelColor=0d1117" />
 
 </td>
 </tr>
@@ -212,11 +236,11 @@ Comprehensive modding tools suite — the full toolkit for Icarus mod developmen
 
 > *"Every mod starts as a data table and ends as a game-changer."*
 
-- Build comprehensive mods for **Icarus: First Cohort** using JimK72's Mod Manager
-- Work with **EXMOD/EXMODZ** format for data table modifications
-- Modify crafting recipes, processing speeds, item stats, and workshop layouts
-- Create Blueprint (BP) asset modifications with **.uasset/.uexp** pairs
-- Package and distribute mods via **PAK** files
+- Build mods for **Icarus: First Cohort** with JimK72's Mod Manager, as **EXMOD/EXMODZ** data-table patches
+- Write new **Blueprint logic** for Icarus, generated from C++ in an Unreal Engine 4.27 kit and cooked into PAK mods (roads that repeat the game's texture instead of stretching it)
+- Rebuild the game's own Blueprints after each update, patched and verified with UAssetAPI and CUE4Parse
+- Finish content the game left unreleased, from its own data: hidden building pieces and an unfinished legendary weapon
+- Ship every mod through automated GitHub releases, with icons and banners drawn from live mod data
 
 </details>
 
@@ -226,10 +250,12 @@ Comprehensive modding tools suite — the full toolkit for Icarus mod developmen
 
 > *"A good tool saves a thousand hours."*
 
-- **icarus-modinfo-validator** — Automated validation for mod files
-- **Icarus Save File Toolkit** — Player data modification utility  
-- **Project Daedalus** — Comprehensive modding tools suite
-- Custom scripts for icon extraction, data analysis, and batch processing
+- **icarus-modinfo-validator** — automated validation for mod files
+- **Icarus mod browser** — a site for the whole collection, rebuilt on every release
+- **Project Daedalus static site** — the Icarus mod hub rebuilt on GitHub Pages
+- **Game export pipeline** — refreshes a full Icarus data export after every game update and reports what changed
+- **Blueprint decoder** — reads Blueprint bytecode straight from the game's PAK files
+- **Icarus Save File Toolkit** — player data utility
 
 </details>
 
@@ -239,10 +265,10 @@ Comprehensive modding tools suite — the full toolkit for Icarus mod developmen
 
 > *"The best mods are the ones everyone can learn from."*
 
-- Active contributor to the Icarus modding community
-- Build and maintain validation tools that help other modders
-- Share knowledge and mod templates with the community
-- Contribute to manga parser development (kotatsu-parsers)
+- Contributor to **Project Daedalus** (projectdaedalus.app), the Icarus mod hub
+- Crimson Desert engine signature database for ASI modders
+- Manga parser fixes merged upstream (kotatsu-parsers)
+- Validation tools and mod templates shared with the Icarus modding community
 
 </details>
 

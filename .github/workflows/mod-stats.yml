@@ -1,0 +1,28 @@
+name: Update Icarus Mod Stats
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: AgentKush/Icarus-mods
+          path: icarus-mods
+          fetch-depth: 1
+      - name: Recount mods, data entries and recipes
+        run: python3 .github/scripts/update_stats.py icarus-mods README.md
+      - name: Commit if the numbers changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || { git commit -m "Update Icarus mod stats" && git push; }
