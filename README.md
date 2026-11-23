@@ -4,7 +4,7 @@
 <!-- Typing Animation - Icarus Terminal Style (numbers kept current by .github/workflows/mod-stats.yml) -->
 <p align="center">
   <a href="https://github.com/AgentKush">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=240&lines=%3E+DROPSHIP+TERMINAL+ONLINE...;%3E+56+MODS+DEPLOYED+TO+ICARUS;%3E+42%2C357+DATA+ENTRIES+MODIFIED;%3E+19%2C239+CRAFTING+RECIPES+ENGINEERED;%3E+SYSTEM+STATUS%3A+FULLY+OPERATIONAL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=2EA043&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=240&lines=%3E+DROPSHIP+TERMINAL+ONLINE...;%3E+56+MODS+DEPLOYED+TO+ICARUS;%3E+42%2C379+DATA+ENTRIES+MODIFIED;%3E+19%2C256+CRAFTING+RECIPES+ENGINEERED;%3E+SYSTEM+STATUS%3A+FULLY+OPERATIONAL" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,8 +33,8 @@ const AgentKush = {
 
     field_stats: {
         mods_deployed:         56,
-        data_entries_modified: "42,357",
-        crafting_recipes:      "19,239",
+        data_entries_modified: "42,379",
+        crafting_recipes:      "19,256",
         status:                "ACTIVE — Continuously Deploying"
     },
 
@@ -109,13 +109,13 @@ const AgentKush = {
 </td>
 <td align="center" width="220">
 <h3>🗃️</h3>
-<h2><!--entries-->42,357<!--/entries--></h2>
+<h2><!--entries-->42,379<!--/entries--></h2>
 <b>Data Entries Modified</b><br/>
 <sub>Across all data tables</sub>
 </td>
 <td align="center" width="220">
 <h3>⚒️</h3>
-<h2><!--recipes-->19,239<!--/recipes--></h2>
+<h2><!--recipes-->19,256<!--/recipes--></h2>
 <b>Crafting Recipes</b><br/>
 <sub>Engineered & balanced</sub>
 </td>
